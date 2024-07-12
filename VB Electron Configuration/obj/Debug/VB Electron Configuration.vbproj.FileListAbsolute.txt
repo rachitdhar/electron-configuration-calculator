@@ -1,0 +1,11 @@
+C:\Users\Rachit_Arshia\AppData\Local\Temporary Projects\VB Electron Configuration\bin\Debug\VB Electron Configuration.exe.config
+D:\Rachit\My Programming\VB Lang\VB Electron Configuration\VB Electron Configuration\bin\Debug\VB Electron Configuration.exe.config
+D:\Rachit\My Programming\VB Lang\VB Electron Configuration\VB Electron Configuration\bin\Debug\VB Electron Configuration.exe
+D:\Rachit\My Programming\VB Lang\VB Electron Configuration\VB Electron Configuration\bin\Debug\VB Electron Configuration.pdb
+D:\Rachit\My Programming\VB Lang\VB Electron Configuration\VB Electron Configuration\bin\Debug\VB Electron Configuration.xml
+D:\Rachit\My Programming\VB Lang\VB Electron Configuration\VB Electron Configuration\obj\Debug\VB_Electron_Configuration.Form1.resources
+D:\Rachit\My Programming\VB Lang\VB Electron Configuration\VB Electron Configuration\obj\Debug\VB_Electron_Configuration.Resources.resources
+D:\Rachit\My Programming\VB Lang\VB Electron Configuration\VB Electron Configuration\obj\Debug\VB Electron Configuration.vbproj.GenerateResource.Cache
+D:\Rachit\My Programming\VB Lang\VB Electron Configuration\VB Electron Configuration\obj\Debug\VB Electron Configuration.exe
+D:\Rachit\My Programming\VB Lang\VB Electron Configuration\VB Electron Configuration\obj\Debug\VB Electron Configuration.xml
+D:\Rachit\My Programming\VB Lang\VB Electron Configuration\VB Electron Configuration\obj\Debug\VB Electron Configuration.pdb
